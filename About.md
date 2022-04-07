@@ -1,5 +1,5 @@
 # Sean Thomas Orion Wald: Who Am I & What Do I Do?
-<img align="left" src="MusicMe.png" width="550" height="700">
+<img align="left" src="MusicMe.png" width="500" height="655">
 Hey! My name is Sean Thomas Wald, 
 I'm a Producer, 
 Multi-instrumentalist,
@@ -15,7 +15,7 @@ and Singer/Songwriter!
 [LinkTree](https://linktr.ee/thomaswald)
 
 ## Recent Release - Tales Under the Twin Suns
-<img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="200" height="200">
+<img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="125" height="125">
 
 About
 
