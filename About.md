@@ -90,6 +90,8 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 <img align="left" src="ThomasWald.png" width="200" height="200">
 
 ---
+From left to right; Voodoo Magic, Crossroads, Are You Satsified?, and Red
+
 # Sean Wald - Artist
 summary
 ## Music
