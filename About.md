@@ -108,13 +108,20 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 ## Music
 
 ### All Releases
-<img align="right" src="ThomasWald.png" width="100" height="100">
 
 [Tales Under the Twin Suns](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V) *(Feburary 24, 2022)*
 
 [Soaring Above the Clouds](https://open.spotify.com/album/6BKitzcDAjaBMA9OiBCaNx) *(April 3, 2021)*
 
 [Route 66](https://open.spotify.com/album/3qAUQGiCzl3krNaQrdafCZ) *(August 29, 2020)*
+
+### Behind the Music
+**Tales Under the Twin Suns**
+> This album took me about **5 years** to make, starting all the way back in **2017**. It started with an idea that I'd make a progressive metal album, but I had neither the skills nor the tools to complete this idea. 
+> *However*, 4 years later, after I had proved I could produce the music I had always envisioned in my head, *I returned to my former dreams*, and set my eyes on making this album. Through actual tears and sweat - which included (but not limited to) `getting my computer wet and therefore losing every single song I had ever made` - I was finally able to complete the album (with a little help from my friend/mentor/teemate/producer:
+[Derek Cote](https://linktr.ee/varisonus)
+)
+> The album follows a man and his journey up mount Fuji, where he encounters several beings and experiences which forever change his worldview. Once he finalls crests the summit fo the mountain, only hell awaits him on the otherside.
 
 ## Image Gallery
 images
