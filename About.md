@@ -1,7 +1,6 @@
 # Sean Thomas Orion Wald: Who Am I & What Do I Do?
 Hey! My name is **Sean Thomas Wald**, and I'm a *Producer, Multi-instrumentalist, and SInger/Songwriter!*
 <img align="left" src="MusicMe.png" width="500" height="655">
-
 ## About Me
 I've been playing guitar from the age of 6, and ever since then I've had a passion both for playing music, but also writing it. I think as every writer's story goes: my initial songs were pretty objectively bad and very hard to listen to, but this didn't stop me from writing, so I kept making new songs, picking up new instruments along the way, and eventually got to where I am now!
 
