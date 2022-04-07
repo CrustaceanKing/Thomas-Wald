@@ -22,7 +22,7 @@ q
 q
 
 link to linktree
-## Recent Release
+## Recent Release - *Tales Under the Twin Suns
 Image
 
 About
