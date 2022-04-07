@@ -6,7 +6,7 @@ Hey! My name is **Sean Thomas Wald**, and I'm a *Producer, Multi-instrumentalist
 ---
 I've been playing guitar from the age of 6, and ever since then I've had a passion both for playing music, but also writing it. I think as every writer's story goes: my initial songs were pretty objectively bad and very hard to listen to, but this didn't stop me from writing, so I kept making new songs, picking up new instruments along the way, and eventually got to where I am now!
 
-Some of my biggest inspirations are Gary Clark Jr. , Royal Blood, Highly Suspect, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones. I love making blues rock although I never limit myself creatively, from making a metal album to making an (upcoming) electronic album
+Some of my Biggest inspirations are *Gary Clark Jr. , Royal Blood, Highly Suspect, Iration, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones*. I love making blues rock although I never limit myself creatively, from making a `Metal Album` to making an (upcoming) `electronica` album.
 
 Also to clear up the air, the artist `Sean Wald` is where I release all instrumental songs/works I have done, and because of this it has a much quicker turn around time and is generally more fun to make. The artist `Thomas Wald` is where I release all my singles/songs featuring vocals and heavily promote my music. Due to the complexity of mixing and mastering vocals, these tracks take quite a bit of time, but in comparison to Sean Wald they always out-preform (My highest streaming song *Crossroads* , has nearly **10,000 Streams!** )
 
