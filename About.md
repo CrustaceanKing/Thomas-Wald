@@ -14,7 +14,7 @@ Also to clear up the air, the artist `Sean Wald` is where I release all instrume
 
 Here's a 
 [general link](https://linktr.ee/thomaswald)
-to all my music, but for more information on each specific release read below;
+to all my music, but for specific informtaion about each seperate artist, what goes behind making the music, each song, and a little about each song, read below;
 
 ## Recent Release - Tales Under the Twin Suns (Feburary- 2022)
 <img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="250" height="250">
