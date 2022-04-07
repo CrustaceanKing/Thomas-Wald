@@ -68,6 +68,10 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 > For sake of anonymity, I'll try to keep the background as vague as possible, but around the time of this release, my ex broke up with me, and this was my way of coping: writing. It's about struggling to move on, but accepting it while still remembering the good memories, which in my life has been something I've had difficulty with.
 > `Anyways`, *this song just hit* **over 2,000 Streams**, so obviously **Trauma is Profitable, Q.E.D.** (I hope I don't need to say this but this is a joke) 
 
+**Crossroads**
+> There have always been times in my life where I hated myself, times where I had really negative thoughts, and this song is an expression of it. It plays out like a story, where the subject (me), goes down to the crossroads, only to find a dismal ghostly spirit, who informed the subject that he was waiting for all the suffering to end, and he was the "*demon inside [the subject]*". After this confrontation, he goes to a river where he doesn't see his own reflection, but rather "*the devil's eyes starring back at [him]*". The story of crossroads not only depicts the downward spiral of the main character, as he finds out he is the devil, but also serves many thematical purposes. Firstly, the `devil's eyes` are both a reference to how I was feeling about myself - thinking I was the devil, but also a reference to how we all this inherent evil inside of us, and we can either overcome it or give in to it. At the time of making this and by the ending of the song, it is pretty clear I gave into this demon inside me, however, in future woks, I plan to express how I overcome this.
+> *Crossroads* is to date my most popular song, with **over 10,000 Streams!**
+
 ## Image Gallery
 images
 # Sean Wald
