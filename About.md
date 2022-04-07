@@ -7,11 +7,11 @@ and Singer/Songwriter!
 :
 
 ---
-I've been playing guitar from the age of 6, and ever since then I've had a passion both for playing music, but also writing it. I think as every writer's story goes: my initial songs were pretty objectively bad and very hard to listen to, but this didn't stop me from writing, so I kept making new songs, picking up new instruments along the way, and eventually got to where I am now!
+  I've been playing guitar from the age of 6, and ever since then I've had a passion both for playing music, but also writing it. I think as every writer's story goes: my initial songs were pretty objectively bad and very hard to listen to, but this didn't stop me from writing, so I kept making new songs, picking up new instruments along the way, and eventually got to where I am now!
 
-Some of my biggest inspirations are Gary Clark Jr. , Royal Blood, Highly Suspect, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones. I love making blues rock although I never limit myself creatively, from making a metal album to making an (upcoming) electronic album
+  Some of my biggest inspirations are Gary Clark Jr. , Royal Blood, Highly Suspect, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones. I love making blues rock although I never limit myself creatively, from making a metal album to making an (upcoming) electronic album
 
-Here's a general link to all my music, for more information on each one read below; 
+  Here's a general link to all my music, for more information on each one read below; 
 [LinkTree](https://linktr.ee/thomaswald)
 
 ## Recent Release - Tales Under the Twin Suns
