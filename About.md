@@ -27,7 +27,13 @@ As much as I'd like to tell you all about how amazing this album is and what it 
 [Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
 ! (please :D )
 # Thomas Wald
-As stated previously, the artist `Thomas Wald` is where I release all my **singles/songs** featuring **vocals** and **heavily promote my music**.
+As stated previously, the artist `Thomas Wald` is where I release all my **singles/songs** featuring **vocals** and **heavily promote my music**. 
+
+For each single I make under `Thomas Wald` it generally takes anywhere from **a month** to up to **a year** just to fully *produce and release songs*, including promotional images and videos as well as getting everything in the track to meet streaming standards.
+
+As stated, for Thomas Wald releases I send them off to my producer
+[Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568)
+so they can sound absolutely perfect. This added process takes copious amounts of time, but the end result is worth it, especially compared to the music released on `Sean Wald`
 ## Music
 discography
 
