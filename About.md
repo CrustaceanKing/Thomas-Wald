@@ -15,7 +15,7 @@ and Singer/Songwriter!
 [LinkTree](https://linktr.ee/thomaswald)
 
 ## Recent Release - Tales Under the Twin Suns
-<img align="right" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="200" height="200">
+<img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="200" height="200">
 
 About
 
