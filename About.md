@@ -124,13 +124,32 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 > The album follows a man and his journey up mount Fuji, where he encounters several beings and experiences which forever change his worldview. Once he finalls crests the summit fo the mountain, only hell awaits him on the otherside.
 > 
 > Also yes the `Twin Suns` is a *Star Wars* reference
+> Recorded, Produced, Mixed & Mastered by Me
 
 > **Standout tracks:**
 >> *Seii Taishogun*
 >>> This nearly `8 minute song` details the life of *Seii Taishogun*, which asically is the title of the Shogun in japan. This song was a lot of fun to make, as not only does it have very *quiet verses* with **grand, pounding choruses**, but also the drums were very fun to track, especially in the ridge where the song changes from 3/4 to 4/4
 
 >> *The Dance of Blue & Red Dragons*
->>> This track is actually a reference to Avatar:*The Last Airbender*, in that the fight between Zuko and Azula is akin to blue & Red dragons. This song was also really fun to make, specifically because of the chorus, which not only switch out of *3/4 to 4/4* but also let me go crazy with the drum fills 
+>>> This track is actually a reference to Avatar:*The Last Airbender*, in that the fight between Zuko and Azula is akin to Blue & Red dragons, and the dance being the fight. This song was also really fun to make, specifically because of the chorus, which not only switch out of *3/4 to 4/4* but also let me go crazy with the drum fills.
+
+>> *47 Ronin*
+>>> For the last song of the album, I had to go grand, so what better way than to make a `15 Minute Long Epic` about the old japanese folktale of the same name. This song was insane to make, it ended up with around 100 tracks, but was also very rewarding. From using oriental drums (Gong etc.) to perfectly figuring out how to overlay tracks with different tempos, this track is probably my **Magnum Opus**.
+
+**Soaring Above the Clouds**
+> This album actually took me a lot longer that it seems, as I actually started formulating (and writing it) about a year prior. I even released a very different version of this album around October of 2020, however I deleted it due to song issues. This album picks up where *Route 66* left off, with overcoming trauma you're still left to pick up the pieces in your life, which is what the album details, In the end, I hope to have gotten in a better place than I was before, learning that forgetting the past is counter-productive, as it is a part of me, and understanding that I am defined from my experiences.
+
+> **Standout Tracks:**
+>> *Red Heart*
+>>> This song was actually written as an english project, where we analyzed a character from the book *Beloved*. The themes of beloved - overcoming trauma by fully understanding your past & integrating it into yourself - were incredibly similar to the themes I was writing about in this album. This song was asolutely inspired by the greats like *Jimi Hendrix* and *Gary Clark Jr.*, the main riff actually was a play on inverting the riff from the song `When My Train Pulls In` by Gary. aside from it being fun to make, it also pushed my boundried with drums, as in this song exactly I finally figured out what the snare was used for in terms of songwriting & feel and how to use it.
+
+>> *Sandcastles*
+>>> This song was written all the way back in 2019, and it was about how I just wanted to escape the problems in my life. It is very meaningful to the themes of the album as it's part of the journey of getting your life back together after overcoming trauma. Sometimes we relapse, and that's ok, so long as we `take the next step forward`, *we'll always move past where eventually*.
+
+>> *Soaring Above the Clouds*
+>>> In 2009, my dog died. However being 6 at the time and moving to a new place, I never really had any time to process it at all. 11 years later, I came ack to this moment to both give myself closure on this event, and to wish my dog well
+
+>>>Rest in Peace Mocha, I hope whereever you are, you're happy, and someday I'll find you Soaring Above the Clouds 
 
 ## Image Gallery
 images
