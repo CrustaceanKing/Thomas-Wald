@@ -107,8 +107,15 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 
 ## Music
 
+### All Releases
+<img align="right" src="ThomasWald.png" width="220" height="220">
 
-Lins to music
+[Tales Under the Twin Suns](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V) *(Feburary 24, 2022)*
+
+[Soaring Above the Clouds](https://open.spotify.com/album/6BKitzcDAjaBMA9OiBCaNx) *(April 3, 2021)*
+
+[Route 66](https://open.spotify.com/album/3qAUQGiCzl3krNaQrdafCZ) *(August 29, 2020)*
+
 ## Image Gallery
 images
 ## Live preformances
