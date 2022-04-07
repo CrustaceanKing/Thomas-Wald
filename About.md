@@ -21,7 +21,7 @@ Here's a general link to all my music, for more information on each one read bel
 
 This album took me about **5 years** to make, starting all the way back in **2017**. It started with an idea that I'd make a progressive metal album, but I had neither the skills nor the tools to complete this idea. 
 
-However, 4 years later, after I had proved I could produce the music I had always envisioned in my head, I returned to my former dreams, and set my eyes on making this album. Through actual tears and sweat - which included getting my computer wet and therefore losing every single song I had ever made - I was finally able to complete the album (with a little help from my friend/mentor/teemate/producer:
+*However*, 4 years later, after I had proved I could produce the music I had always envisioned in my head, *I returned to my former dreams*, and set my eyes on making this album. Through actual tears and sweat - which included (but not limited to) `getting my computer wet and therefore losing every single song I had ever made` - I was finally able to complete the album (with a little help from my friend/mentor/teemate/producer:
 [Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568)
 )
 
