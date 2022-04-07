@@ -78,6 +78,11 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 > Probably not surprisingly either, Voodoo Magic is my least popular (Thomas Wald) release to date, with somewhere between **500-750 total streams**. 
 > Recorded, Produced, Mixed & Mastered by Me
 
+**Are You Satisfied?**
+> `This song is a cover by Reignwolf's song of the same name`. I thought that was important to say given it seems a lot of people who know me and listen to my music are under the impression I made this song, **I did not**, although I did cover it because it was such a good song (and while you're here, why don't you go check out [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK)). 
+> *Are You Satisfied?* (by Thomas Wald) has **over 5,000 Streams!**
+> Recorded, Produced, Mixed & Mastered by Me
+
 ## Image Gallery
 images
 # Sean Wald - Artist
