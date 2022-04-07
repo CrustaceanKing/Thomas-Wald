@@ -36,7 +36,7 @@ As stated, for Thomas Wald releases, I send them off to my producer
 so they can sound absolutely perfect. This added process takes copious amounts of time, but the end result is worth it, especially compared to the music released on `Sean Wald`
 ## Music
 
-# Songs
+### Songs
 [Red](https://open.spotify.com/album/2F2L5adkWrYFbLuhRpt3wA) - Varisonus Edit *(September 18, 2021)*
 
 [[Red]](https://open.spotify.com/album/70YU0lmfHNzkB6WohSnbEH)
@@ -54,7 +54,7 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 [Are You Satisfied?](https://open.spotify.com/album/2dshdD5cukMS9pjWsoo7OP?si=5GP_MBuOSwacxSavgAcTzQ)
 *(January 27,2021)*
 
-# Behind the Music
+### Behind the Music
 
 
 ## Image Gallery
