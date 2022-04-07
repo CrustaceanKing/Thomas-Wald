@@ -123,6 +123,9 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 )
 > The album follows a man and his journey up mount Fuji, where he encounters several beings and experiences which forever change his worldview. Once he finalls crests the summit fo the mountain, only hell awaits him on the otherside.
 
+> **Standout tracks:**
+>> Seii Taishogun
+
 ## Image Gallery
 images
 ## Live preformances
