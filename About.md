@@ -16,7 +16,7 @@ Also to clear up the air, the artist `Sean Wald` is where I release all instrume
 
 Here's a 
 [general link](https://linktr.ee/thomaswald)
-to all my music, but for specific informtaion about each seperate artist, what goes behind making the music, each song, and a little about each song, read below;
+to all my music, but for specific informtaion about each seperate artist, what goes behind making the music, each song, and a little about each song, read below;<br/>
 
 ## Recent Release - Tales Under the Twin Suns (Feburary- 2022)
 <img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="250" height="250">
@@ -58,7 +58,7 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 *(March 19, 2021)*
 
 [Are You Satisfied?](https://open.spotify.com/album/2dshdD5cukMS9pjWsoo7OP?si=5GP_MBuOSwacxSavgAcTzQ)
-*(January 27,2021)*
+*(January 27,2021)*<br/>
 
 ### Behind the Music
 **Red**
@@ -94,7 +94,7 @@ From left to right;
 1) *Voodoo Magic*
 2) *Crossroads*
 3) *Are You Satisfied?*
-4) *Red*
+4) *Red*<br/>
 
 # Sean Wald - Artist
 summary
