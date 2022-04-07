@@ -1,3 +1,4 @@
+<span style="color:blue">some *blue* text</span>
 # Sean Thomas Orion Wald: Who Am I & What Do I Do?
 <img align="left" src="MusicMe.png" width="500" height="655">
 
