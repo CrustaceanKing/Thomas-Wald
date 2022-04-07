@@ -87,7 +87,7 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 <img align="left" src="VoodooMagic.jpeg" width="250" height="250">
 <img align="left" src="Crossroads.jpeg" width="250" height="250">
 <img align="left" src="AreYouSatisfied.jpeg" width="250" height="250">
-<img align="left" src="ThomasWald.png" width="250" height="250">
+<img align="right" src="ThomasWald.png" width="250" height="250">
 
 
 # Sean Wald - Artist
