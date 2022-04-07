@@ -26,7 +26,7 @@ This album took me about **5 years** to make, starting all the way back in **201
 As much as I'd like to tell you all about how amazing this album is and what it sounds like, in my opinion it's impossible to try to describe music in words, so give it a 
 [Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
 ! (please :D )
-# Thomas Wald
+# Thomas Wald - Artist
 As stated previously, the artist `Thomas Wald` is where I release all my **singles/songs** featuring **vocals** and **heavily promote my music**. 
 
 For each single I make under `Thomas Wald` it generally takes anywhere from **a month** to up to **a year** just to fully *produce and release songs*, including promotional images and videos as well as getting everything in the track to meet streaming standards.
@@ -35,7 +35,12 @@ As stated, for Thomas Wald releases, I send them off to my producer
 [Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568) (Varisonus)
 so they can sound absolutely perfect. This added process takes copious amounts of time, but the end result is worth it, especially compared to the music released on `Sean Wald`
 ## Music
-discography
+[Red](https://open.spotify.com/album/2F2L5adkWrYFbLuhRpt3wA) - Varisonus Edit *(September 18, 2021)*
+[Red] *(August 20, 2021)*
+Golden *(June 26, 2021)*
+Crossroads *(May 28, 2021)*
+Voodoo Magic *(March 19, 2021)*
+Are You Satisfied? *(January 27,2021)*
 
 links to music
 ## Image Gallery
