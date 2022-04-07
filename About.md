@@ -10,8 +10,9 @@ Some of my Biggest inspirations are *Gary Clark Jr. , Royal Blood, Highly Suspec
 
 Also to clear up the air, the artist `Sean Wald` is where I release all instrumental songs/works I have done, and because of this it has a much quicker turn around time and is generally more fun to make. The artist `Thomas Wald` is where I release all my singles/songs featuring vocals and heavily promote my music. Due to the complexity of mixing and mastering vocals, these tracks take quite a bit of time, but in comparison to Sean Wald they always out-preform (My highest streaming song *Crossroads* , has nearly **10,000 Streams!** )
 
-Here's a general link to all my music, for more information on each one read below; 
-[LinkTree](https://linktr.ee/thomaswald)
+Here's a 
+[general link](https://linktr.ee/thomaswald)
+to all my music, but for more information on each specific release read below;
 
 ## Recent Release - Tales Under the Twin Suns (Feburary- 2022)
 <img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="250" height="250">
