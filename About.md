@@ -27,21 +27,7 @@ As much as I'd like to tell you all about how amazing this album is and what it 
 [Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
 ! (please :D )
 # Thomas Wald
-*Italic*
-**Bold**
-> Blockquote
-* List
-* List
-* List
-1. One
-2. Two
-3. Three
-`Inline code`
-```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
-```
+As stated previously, the artist `Thomas Wald` is where I release all my **singles/songs** featuring **vocals** and **heavily promote my music**.
 ## Music
 discography
 
