@@ -19,7 +19,15 @@ Here's a general link to all my music, for more information on each one read bel
 ## Recent Release - Tales Under the Twin Suns (Feburary- 2022)
 <img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="250" height="250">
 
-This album took me about 5 years to make, starting all the way back in 2017. If your a fan of metal, or just want to see both my best guitar, drum, and harminozation preformances give it a 
+This album took me about 5 years to make, starting all the way back in 2017. It started with an idea that I'd make a progressive metal album, but I had neither the skills nor the tools to complete this idea. 
+
+However, 4 years later, after I had proved I could produce the music I had always envisioned in my head, I returned to my former dreams, and set my eyes on making this album. Through actual tears and sweat - which included getting my computer wet and therefore losing every single song I had ever made - I was finally able to complete the album (with a little help from my friend/mentor/teemate/producer:
+[Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568)
+)
+
+The Music follows the journey of a man as he climbs Mount. Fuiji, while encountering several prespectives and themes about life once unconsidered
+
+However, It'd be impossible to try to descrie music in words, so give it a 
 [Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
 !
 # Thomas Wald
