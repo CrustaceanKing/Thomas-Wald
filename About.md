@@ -1,4 +1,4 @@
-# About - who am I?
+# About - Who Am I & What Do I Do?
 Image og me
 summary+ history
 link to linktree
