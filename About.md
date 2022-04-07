@@ -65,7 +65,8 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 > Recently, I've been getting a lot of what I can only characterize as Panic Attacks. My chest would start to hurt as if I had heart-burn on steriods, and it was hard to breathe. Always looking for new topics to write about, I decided to write about my experiences in facing these moments of panic (writing about trauma is something of a crux for me as you'll come to see). Lyrics such as "*the walls are closing in*", "*the nightmare won't end*", "*these voices in my head are telling me I should be dead*", all describe what I was feeling in the moment. I hoped in singing about this it'd not only give light to my experiences but also help those who were going through similar things, so maybe they could relate to what I was experiencing. Red was mixed & mastered by the afromentioned [Derek Cote](https://linktr.ee/varisonus), this song just recently hit **over 1,000 Streams!**
 
 **Golden**
-> For sake of
+> For sake of anonymity, I'll try to keep the background as vague as possible, but around the time of this release, my ex broke up with me, and this was my way of coping: writing. It's about struggling to move on, but accepting it while still remembering the good memories, which in my life has been something I've had difficulty with.
+> `Anyways`, *this song just hit* **over 2,000 Streams**, so obviously trauma is profitable Q.E.D. (I hope I didn't need to say this but `This is a joke` 
 
 ## Image Gallery
 images
