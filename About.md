@@ -3,7 +3,9 @@ Hey! My name is **Sean Thomas Wald**, and I'm a *Producer, Multi-Instrumentalist
 
 ---
 <img align="left" src="MusicMe.png" width="500" height="655">
+
 ## About Me
+
 I've been playing guitar from the age of 6, and ever since then I've had a passion both for playing music, but also writing it. I think as every writer's story goes: my initial songs were pretty objectively bad and very hard to listen to, but this didn't stop me from writing, so I kept making new songs, picking up new instruments along the way, and eventually got to where I am now!
 
 Some of my Biggest inspirations are *Gary Clark Jr. , Royal Blood, Highly Suspect, Iration, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones*. I love making blues rock although I never limit myself creatively, from making a `Metal Album` to making an (upcoming) `electronica` album.
