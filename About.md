@@ -25,7 +25,7 @@ This album took me about **5 years** to make, starting all the way back in **201
 [Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568)
 )
 
-However, It'd be impossible to try to describe music in words, so give it a 
+In my opinion, It'd be impossible to try to describe music in words, so give it a 
 [Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
 ! (please :D )
 # Thomas Wald
