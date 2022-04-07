@@ -41,6 +41,8 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 ## Music
 
 ### Songs
+<img align="right" src="ThomasWald.png" width="200" height="200">
+
 [Red](https://open.spotify.com/album/2F2L5adkWrYFbLuhRpt3wA) - Varisonus Edit *(September 18, 2021)*
 
 [[Red]](https://open.spotify.com/album/70YU0lmfHNzkB6WohSnbEH)
