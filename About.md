@@ -1,5 +1,6 @@
 # About - Who Am I & What Do I Do?
-![Image](MusicMe.png =250x250)
+![Image](MusicMe.png)
+<img src="MusicMe.png" width="100" height="100">
 
 summary+ history
 
