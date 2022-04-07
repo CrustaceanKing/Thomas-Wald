@@ -108,7 +108,7 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 ## Music
 
 ### All Releases
-<img align="right" src="ThomasWald.png" width="220" height="220">
+<img align="right" src="ThomasWald.png" width="100" height="100">
 
 [Tales Under the Twin Suns](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V) *(Feburary 24, 2022)*
 
