@@ -1,5 +1,5 @@
 # About - Who Am I & What Do I Do?
-<img align="right" src="MusicMe.png" width="500" height="655">
+<img align="left" src="MusicMe.png" width="500" height="655">
 summary+ history
 
 link to linktree
