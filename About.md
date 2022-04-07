@@ -11,13 +11,13 @@ I've been playing guitar from the age of 6, and ever since then I've had a passi
 
 Some of my biggest inspirations are Gary Clark Jr. , Royal Blood, Highly Suspect, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones. I love making blues rock although I never limit myself creatively, from making a metal album to making an (upcoming) electronic album
 
-Also to clear up the air, the artist `Sean Wald` is where I release all instrumental songs/ works I have done, and because of this it is a lot easier to produce & more fun to make. The artist `Thomas Wald` is where I release all my singles/songs featuring vocals and heavily promote my music. Due to the complexity of mixing and mastering vocals, these tracks take quite a bit of time, but in comparison to Sean Wald they always out-preform (My highest streaming song *Crossroads* , has nearly **10,000 Streams!**
+Also to clear up the air, the artist `Sean Wald` is where I release all instrumental songs/ works I have done, and because of this it is a lot easier to produce & more fun to make. The artist `Thomas Wald` is where I release all my singles/songs featuring vocals and heavily promote my music. Due to the complexity of mixing and mastering vocals, these tracks take quite a bit of time, but in comparison to Sean Wald they always out-preform (My highest streaming song *Crossroads* , has nearly **10,000 Streams!** )
 
 Here's a general link to all my music, for more information on each one read below; 
 [LinkTree](https://linktr.ee/thomaswald)
 
 ## Recent Release - Tales Under the Twin Suns (Feburary- 2022)
-<img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="125" height="125">
+<img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="250" height="250">
 
 This album took me about 5 years to make, starting all the way back in 2017. If your a fan of metal, or just want to see both my best guitar, drum, and harminozation preformances give it a 
 [Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
