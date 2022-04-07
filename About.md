@@ -88,13 +88,7 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 <img align="left" src="Crossroads.jpeg" width="200" height="200">
 <img align="left" src="AreYouSatisfied.jpeg" width="200" height="200">
 <img align="left" src="ThomasWald.png" width="200" height="200">
-
----
-From left to right;
-1) *Voodoo Magic*
-2) *Crossroads*
-3) *Are You Satisfied?*
-4) *Red*<br/>
+<br/>
 
 # Sean Wald - Artist
 summary
