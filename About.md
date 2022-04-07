@@ -84,9 +84,9 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 > Recorded, Produced, Mixed & Mastered by Me
 
 ## Image Gallery
-<img src="VoodooMagic.jpeg" width="250" height="250">
-<img src="Crossroads.jpeg" width="250" height="250">
-<img src="AreYouSatisfied.jpeg" width="250" height="250">
+<img align="left" src="VoodooMagic.jpeg" width="250" height="250">
+<img align="left" src="Crossroads.jpeg" width="250" height="250">
+<img align="left" src="AreYouSatisfied.jpeg" width="250" height="250">
 
 
 # Sean Wald - Artist
