@@ -1,5 +1,5 @@
 # About - Who Am I & What Do I Do?
-Image og me
+![Image](MusicMe.jpg)
 
 summary+ history
 
