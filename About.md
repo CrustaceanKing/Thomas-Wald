@@ -20,7 +20,7 @@ to all my music, but for more information on each specific release read below;
 This album took me about **5 years** to make, starting all the way back in **2017**. It started with an idea that I'd make a progressive metal album, but I had neither the skills nor the tools to complete this idea. 
 
 *However*, 4 years later, after I had proved I could produce the music I had always envisioned in my head, *I returned to my former dreams*, and set my eyes on making this album. Through actual tears and sweat - which included (but not limited to) `getting my computer wet and therefore losing every single song I had ever made` - I was finally able to complete the album (with a little help from my friend/mentor/teemate/producer:
-[Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568)
+[Derek Cote](https://linktr.ee/varisonus)
 )
 
 As much as I'd like to tell you all about how amazing this album is and what it sounds like, in my opinion it's impossible to try to describe music in words, so give it a 
