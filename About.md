@@ -101,7 +101,7 @@ The artist `Sean Wald` is where I release **all my music** usually *without voca
 
 Most recently I released `Tales Under the Twin Suns` under the Sean Wald name. As stated previously, it was a progressive metal album, which up until this point I have been unable to do.
 
-Right now, on top of working on some new Thomas Wald material, I am trying to both make a continuation of the *Route 66/Soaring above the Clouds* anthology while also making an electronica album, featuring no guitars whatsoever, and more focused on the production side of music.
+Right now, on top of working on some new Thomas Wald material, I am trying to both make the next edition of the *Route 66/Soaring above the Clouds* anthology and also make an electronica album, featuring no guitars whatsoever, and more focused on the production side of music.
 
 Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by Me
 
