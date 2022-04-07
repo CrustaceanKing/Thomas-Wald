@@ -62,6 +62,9 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 **Red**
 > Recently, I've been getting a lot of what I can only characterize as Panic Attacks. My chest would start to hurt as if I had heart-burn on steriods, and it was hard to breathe. Always looking for new topics to write about, I decided to write about my experiences in facing these moments of panic (writing about trauma is something of a crux for me as you'll come to see). Lyrics such as "*the walls are closing in*", "*the nightmare won't end*", "*these voices in my head are telling me I should be dead*", all describe what I was feeling in the moment. I hoped in singing about this it'd not only give light to my experiences but also help those who were going through similar things, so maybe they could relate to what I was experiencing. Red was mixed & mastered by the afromentioned [Derek Cote](https://linktr.ee/varisonus), this song just recently hit **over 1,000 Streams!**
 
+**Golden**
+> For sake of
+
 ## Image Gallery
 images
 # Sean Wald
