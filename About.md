@@ -99,7 +99,7 @@ From left to right;
 # Sean Wald - Artist
 The artist `Sean Wald` is where I release **all my music** usually *without vocals*. Because of the lack of vocals, the songs become less marketable, thus `I don't count the streams on these releases`. **However**, because of the lack of vocals it allows me to not only make & release music at a much faster rate, but also allows for me to push my sonic boundries.
 
-Most recently I released `Tales Under the Twin Suns` under the Sean Wald name. As stated previously, it was a progressive metal album, which up until this point I have been unable to do.
+Most recently I released *Tales Under the Twin Suns* under the Sean Wald name. As stated previously, it was a progressive metal album, which up until this point I have been unable to do.
 
 Right now, on top of working on some new Thomas Wald material, I am trying to both make the next edition of the *Route 66/Soaring above the Clouds* anthology and also make an electronica album, featuring no guitars whatsoever, and more focused on the production side of music.
 
