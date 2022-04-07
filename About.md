@@ -57,7 +57,8 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 *(January 27,2021)*
 
 ### Behind the Music
-
+**Red**
+> Red was a song fs, def made lol
 
 ## Image Gallery
 images
