@@ -36,10 +36,16 @@ As stated, for Thomas Wald releases, I send them off to my producer
 so they can sound absolutely perfect. This added process takes copious amounts of time, but the end result is worth it, especially compared to the music released on `Sean Wald`
 ## Music
 [Red](https://open.spotify.com/album/2F2L5adkWrYFbLuhRpt3wA) - Varisonus Edit *(September 18, 2021)*
-[Red] *(August 20, 2021)*
+
+[[Red]](https://open.spotify.com/album/70YU0lmfHNzkB6WohSnbEH)
+*(August 20, 2021)*
+
 Golden *(June 26, 2021)*
+
 Crossroads *(May 28, 2021)*
+
 Voodoo Magic *(March 19, 2021)*
+
 Are You Satisfied? *(January 27,2021)*
 
 links to music
