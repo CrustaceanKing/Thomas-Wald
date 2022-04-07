@@ -31,8 +31,8 @@ As stated previously, the artist `Thomas Wald` is where I release all my **singl
 
 For each single I make under `Thomas Wald` it generally takes anywhere from **a month** to up to **a year** just to fully *produce and release songs*, including promotional images and videos as well as getting everything in the track to meet streaming standards.
 
-As stated, for Thomas Wald releases I send them off to my producer
-[Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568)
+As stated, for Thomas Wald releases, I send them off to my producer
+[Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568) (Varisonus)
 so they can sound absolutely perfect. This added process takes copious amounts of time, but the end result is worth it, especially compared to the music released on `Sean Wald`
 ## Music
 discography
