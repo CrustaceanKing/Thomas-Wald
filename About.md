@@ -122,9 +122,14 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 [Derek Cote](https://linktr.ee/varisonus)
 )
 > The album follows a man and his journey up mount Fuji, where he encounters several beings and experiences which forever change his worldview. Once he finalls crests the summit fo the mountain, only hell awaits him on the otherside.
+> 
+> Also yes the `Twin Suns` is a *Star Wars* reference
 
 > **Standout tracks:**
->> Seii Taishogun
+>> *Seii Taishogun*
+>>> This nearly `8 minute song` details the life of *Seii Taishogun*, which asically is the title of the Shogun in japan. This song was a lot of fun to make, as not only does it have very *quiet verses* with **grand, pounding choruses**, but also the drums were very fun to track, especially in the ridge where the song changes from 3/4 to 4/4
+>> *The Dance of Blue & Red Dragons*
+>>> This track is actually a reference to Avatar:*The Last Airbender*, in that the fight between Zuko and Azula is akin to blue & Red dragons. This song was also really fun to make, specifically because of the chorus, which not only switch out of *3/4 to 4/4* but also let me go crazy with the drum fills 
 
 ## Image Gallery
 images
