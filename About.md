@@ -25,11 +25,9 @@ However, 4 years later, after I had proved I could produce the music I had alway
 [Derek Cote](https://open.spotify.com/artist/1vCJJaoYrRpzzjlf5Ty568)
 )
 
-The Music follows the journey of a man as he climbs Mount. Fuiji, while encountering several prespectives and themes about life once unconsidered
-
-However, It'd be impossible to try to descrie music in words, so give it a 
+However, It'd be impossible to try to describe music in words, so give it a 
 [Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
-!
+! (please :D )
 # Thomas Wald
 *Italic*
 **Bold**
