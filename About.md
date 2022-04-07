@@ -84,12 +84,12 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 > Recorded, Produced, Mixed & Mastered by Me
 
 ## Image Gallery
-<img align="left" src="VoodooMagic.jpeg" width="250" height="250">
-<img align="left" src="Crossroads.jpeg" width="250" height="250">
-<img align="left" src="AreYouSatisfied.jpeg" width="250" height="250">
-<img align="right" src="ThomasWald.png" width="250" height="250">
+<img align="left" src="VoodooMagic.jpeg" width="200" height="200">
+<img align="left" src="Crossroads.jpeg" width="200" height="200">
+<img align="left" src="AreYouSatisfied.jpeg" width="200" height="200">
+<img align="left" src="ThomasWald.png" width="200" height="200">
 
-
+---
 # Sean Wald - Artist
 summary
 ## Music
