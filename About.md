@@ -12,7 +12,7 @@ I've been playing guitar from the age of 6, and ever since then I've had a passi
 Some of my biggest inspirations are Gary Clark Jr. , Royal Blood, Highly Suspect, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones. I love making blues rock although I never limit myself creatively, from making a metal album to making an (upcoming) electronic album
 
 Here's a general link to all my music, for more information on each one read below; 
-[Link](https://linktr.ee/thomaswald)
+[LinkTree](https://linktr.ee/thomaswald)
 
 ## Recent Release - Tales Under the Twin Suns
 Image
