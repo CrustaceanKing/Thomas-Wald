@@ -40,15 +40,18 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 [[Red]](https://open.spotify.com/album/70YU0lmfHNzkB6WohSnbEH)
 *(August 20, 2021)*
 
-Golden *(June 26, 2021)*
+[Golden](https://open.spotify.com/album/10XInRlKVxGHK3LYZFoXbx)
+*(June 26, 2021)*
 
-Crossroads *(May 28, 2021)*
+[Crossroads](https://open.spotify.com/album/2tp50H2DMpHFGoJP6B27bA)
+*(May 28, 2021)*
 
-Voodoo Magic *(March 19, 2021)*
+[Voodoo Magic](https://open.spotify.com/album/2pBwwBXqoFgbrAiYREbMxN)
+*(March 19, 2021)*
 
-Are You Satisfied? *(January 27,2021)*
+[Are You Satisfied?](https://open.spotify.com/album/2dshdD5cukMS9pjWsoo7OP?si=5GP_MBuOSwacxSavgAcTzQ)
+*(January 27,2021)*
 
-links to music
 ## Image Gallery
 images
 # Sean Wald
