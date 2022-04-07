@@ -66,7 +66,7 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 
 **Golden**
 > For sake of anonymity, I'll try to keep the background as vague as possible, but around the time of this release, my ex broke up with me, and this was my way of coping: writing. It's about struggling to move on, but accepting it while still remembering the good memories, which in my life has been something I've had difficulty with.
-> `Anyways`, *this song just hit* **over 2,000 Streams**, so obviously trauma is profitable Q.E.D. (I hope I didn't need to say this but `This is a joke` 
+> `Anyways`, *this song just hit* **over 2,000 Streams**, so obviously **Trauma is Profitable, Q.E.D.** (I hope I didn't need to say this but `This is a joke` 
 
 ## Image Gallery
 images
