@@ -14,12 +14,12 @@ and Singer/Songwriter!
 >Here's a general link to all my music, for more information on each one read below; 
 [LinkTree](https://linktr.ee/thomaswald)
 
-## Recent Release - Tales Under the Twin Suns
+## Recent Release - Tales Under the Twin Suns (Feburary- 2022)
 <img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="125" height="125">
 
-About
-
-Link
+This album took me about 5 years to make, starting all the way back in 2017. If your a fan of metal, or just want to see both my best guitar, drum, and harminozation preformances give it a 
+[Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
+!
 # Thomas Wald
 *Italic*
 **Bold**
