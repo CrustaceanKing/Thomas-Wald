@@ -1,6 +1,6 @@
 # About - Who Am I & What Do I Do?
 ![Image](MusicMe.png)
-<img src="MusicMe.png" width="200" height="200">
+<img src="MusicMe.png" width="300" height="399">
 
 summary+ history
 
