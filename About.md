@@ -1,6 +1,7 @@
 # Sean Thomas Orion Wald: Who Am I & What Do I Do?
 Hey! My name is **Sean Thomas Wald**, and I'm a *Producer, Multi-Instrumentalist, and Singer/Songwriter!*
-[LinkTree](https://linktr.ee/thomaswald)
+
+[LinkTree](https://linktr.ee/thomaswald) for all platforms
 
 ---
 <img align="left" src="MusicMe.png" width="500" height="655">
