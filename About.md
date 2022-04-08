@@ -179,6 +179,12 @@ Rest in Peace Mocha, I hope where ever you are, you're happy, and someday I'll f
 
 .
 
+.
+
+.
+
+.
+
 
 # Live preformances
 I have not done any live preformances yet due to when I started concurring with Covid-19, however when I do I will post them here.
