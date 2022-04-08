@@ -90,6 +90,16 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 <img align="left" src="ThomasWald.png" width="200" height="200">
 
 ---
+
+---
+
+---
+
+---
+
+---
+
+---
 From left to right;
 1) *Voodoo Magic*
 2) *Crossroads*
