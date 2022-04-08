@@ -89,22 +89,13 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 <img align="left" src="AreYouSatisfied.jpeg" width="200" height="200">
 <img align="left" src="ThomasWald.png" width="200" height="200">
 
----
-
----
-
----
-
----
-
----
-
----
 From left to right;
 1) *Voodoo Magic*
 2) *Crossroads*
 3) *Are You Satisfied?*
 4) *Red*<br/>
+
+---
 
 # Sean Wald - Artist
 The artist `Sean Wald` is where I release **all my music** usually *without vocals*. Because of the lack of vocals, the songs become less marketable, thus `I don't count the streams on these releases`. **However**, because of the lack of vocals it allows me to not only make & release music at a much faster rate, but also allows for me to push my sonic boundries.
