@@ -165,9 +165,9 @@ Rest in Peace Mocha, I hope where ever you are, you're happy, and someday I'll f
 >> This song was written in early 2019, and it was written after I tried to kill myself for the last time. Throughout, I gave the soundscape a more hollow and empty mood to match what I was feeling of wanting to be alive but not being able to see the sky. However by the end, the soundscape becomes completely filled up, with me realizing I want to live, and I should live, and ends back where it started, but this time with a new sense of self, after overcoming my suicidal thoughts. This song ends the whole album on a positive note, that if I just keep mving forward, someday I'll be ok, which is what the Anthology of albums is (hopefully) building towards
 
 ## Image Gallery
-<img align="left" src="VoodooMagic.jpeg" width="310" height="310">
-<img align="left" src="VoodooMagic.jpeg" width="310" height="310">
-<img align="left" src="VoodooMagic.jpeg" width="310" height="310">
+<img align="left" src="VoodooMagic.jpeg" width="313" height="313">
+<img align="left" src="VoodooMagic.jpeg" width="313" height="313">
+<img align="left" src="VoodooMagic.jpeg" width="313" height="313">
 
 
 # Live preformances
