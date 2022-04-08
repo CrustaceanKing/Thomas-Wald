@@ -139,7 +139,7 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 **Soaring Above the Clouds**
 > This album actually took me a lot longer that it seems, as I actually started formulating (and writing it) about a year prior. I even released a very different version of this album around October of 2020, however I deleted it due to song issues. This album picks up where *Route 66* left off, with overcoming trauma you're still left to pick up the pieces in your life, which is what the album details, In the end, I hope to have gotten in a better place than I was before, learning that forgetting the past is counter-productive, as it is a part of me, and understanding that I am defined from my experiences.
 
-> **Standout Tracks:**
+> **Standout tracks:**
 >> *Red Heart*
 >>> This song was actually written as an english project, where we analyzed a character from the book *Beloved*. The themes of beloved - overcoming trauma by fully understanding your past & integrating it into yourself - were incredibly similar to the themes I was writing about in this album. This song was asolutely inspired by the greats like *Jimi Hendrix* and *Gary Clark Jr.*, the main riff actually was a play on inverting the riff from the song `When My Train Pulls In` by Gary. aside from it being fun to make, it also pushed my boundried with drums, as in this song exactly I finally figured out what the snare was used for in terms of songwriting & feel and how to use it.
 
@@ -149,9 +149,26 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 >> *Soaring Above the Clouds*
 >>> In 2009, my dog died. However being 6 at the time and moving to a new place, I never really had any time to process it at all. 11 years later, I came ack to this moment to both give myself closure on this event, and to wish my dog well
 
->>>Rest in Peace Mocha, I hope whereever you are, you're happy, and someday I'll find you Soaring Above the Clouds 
+Rest in Peace Mocha, I hope where ever you are, you're happy, and someday I'll find you Soaring Above the Clouds 
+
+**Route 66**
+> While this was **not** the very *first album* I had every made (in fact I had made **10 previous album** to this, and this album was a *compilation of those albums* of sorts), it was the first album to feature a *full array of sounds*, including: *guitars, bass, drums, keys, & organs*, and was subsequently **the first album I released everywhere**. This album tells the story of me dealing with all my trauma. Again I will not get into specifics, but I dealt with certain things in my life that broke me. So while the album starts off light in *Phoenix, Surfin' Along, and Voodoo Magic*, it quickly turns dark by *Wings*, then what I canj only describe as meding in the final act, culminating in *Route 66* (the song), which I'll get to in a bit
+
+> **Standout tracks:**
+>> *Sunset*
+>>> This track is the 1st of the 2-parter *Sunset/Sunrise*, and is kinda a call for help. It is the darker of the two, starting off slow for the first 3 mins but then picking up by the 5 minute for a very loud solo. In terms of dynamics, this song pushed me tremendously as I has to make the quiet parts sound full while also not oversaturating the loud parts. In retrospect, that seems very trivual, but for all production I was self taught, and so this was a big step for me.
+
+>> *Sunrise*
+>>> This track is the 2nd part of the 2-parter *Sunset/Sunrise*, and feels like a big sigh of relief after the last one. It is far more calm, and actually switches to the Major scale instead of the Dorian scale to have a sence of release and peace. This song was genuienly written about sunsets at the time, but as time progressed it took on a new meaning of being a reaffarmiation that I'll be ok.
+
+>> *Route 66*
+>>> This song was written in early 2019, and it was written after I tried to kill myself for the last time. Throughout, I gave the soundscape a more hollow and empty mood to match what I was feeling of wanting to be alive but not being able to see the sky. However by the end, the soundscape becomes completely filled up, with me realizing I want to live, and I should live, and ends back where it started, but this time with a new sense of self, after overcoming my suicidal thoughts. This song ends the whole album on a positive note, that if I just keep mving forward, someday I'll be ok, which is what the Anthology of albums is (hopefully) building towards
 
 ## Image Gallery
-images
-## Live preformances
-description
+<img align="left" src="VoodooMagic.jpeg" width="330" height="330">
+<img align="left" src="VoodooMagic.jpeg" width="330" height="330">
+<img align="left" src="VoodooMagic.jpeg" width="330" height="330">
+
+
+# Live preformances
+I have not done any live preformances yet due to when I started concurring with Covid-19, however when I do I will post them here.
