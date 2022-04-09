@@ -30,6 +30,8 @@ This album took me about **5 years** to make, starting all the way back in **201
 As much as I'd like to tell you all about how amazing this album is and what it sounds like, in my opinion it's impossible to try to describe music in words, so give it a 
 [Listen](https://open.spotify.com/album/5KCDV9yw0oyKq3Ucib9A0V)
 ! (please :D )
+
+---
 # Thomas Wald - Artist
 As stated previously, the artist `Thomas Wald` is where I release all my **singles/songs** featuring **vocals** and **heavily promote my music**. 
 
@@ -84,16 +86,10 @@ so they can sound absolutely perfect. This added process takes copious amounts o
 > Recorded, Produced, Mixed & Mastered by Me.
 
 ## Image Gallery
-<img align="left" src="VoodooMagic.jpeg" width="200" height="200">
-<img align="left" src="Crossroads.jpeg" width="200" height="200">
-<img align="left" src="AreYouSatisfied.jpeg" width="200" height="200">
-<img align="left" src="ThomasWald.png" width="200" height="200">
 
-From left to right;
-1) *Voodoo Magic*
-2) *Crossroads*
-3) *Are You Satisfied?*
-4) *Red*<br/>
+| VooDoo Magic | Crossroads | Are You Satisfied? | Red  | 
+| :---:        |     :---:      |     :---:      |    :---:   |
+| <img src="VoodooMagic.jpeg" width="200" height="200">   | <img src="Crossroads.jpeg" width="200" height="200">     | <img src="AreYouSatisfied.jpeg" width="200" height="200">    |   <img src="ThomasWald.png" width="200" height="200">    |
 
 ---
 
@@ -167,9 +163,10 @@ Rest in Peace Mocha, I hope where ever you are, you're happy, and someday I'll f
 
 ## Image Gallery
 | Route 66 | Soaring Above the Clouds | Tales Under the Twin Suns |
-| :---         |     :---:      |          :---: |
+| :---:         |     :---:      |          :---: |
 |  <img src="Route66.png" width="312" height="312">  |  <img src="SATC.png" width="312" height="312">    | <img src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="312" height="312">    |
 
+---
 
 # Live Preformamces
 I have not done any live preformances yet, but when I do I'll add them here
