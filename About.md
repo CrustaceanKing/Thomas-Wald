@@ -170,22 +170,6 @@ Rest in Peace Mocha, I hope where ever you are, you're happy, and someday I'll f
 <img align="left" src="SATC.png" width="312" height="312">
 <img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="312" height="312">
 
-.
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-
-# Live preformances
-I have not done any live preformances yet due to when I started concurring with Covid-19, however when I do I will post them here.
+#Live preformamces
+I have not done any live preformances yet, but when I do I'll add them here
