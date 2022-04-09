@@ -164,7 +164,7 @@ Rest in Peace Mocha, I hope where ever you are, you're happy, and someday I'll f
 ## Image Gallery
 | Route 66 | Soaring Above the Clouds | Tales Under the Twin Suns |
 | :---:         |     :---:      |          :---: |
-|  <img src="Route66.png" width="300" height="300">  |  <img src="SATC.png" width="300" height="300">    | <img src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="300" height="300">    |
+|  <img src="Route66.png" width="275" height="275">  |  <img src="SATC.png" width="275" height="275">    | <img src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="275" height="275">    |
 
 ---
 
