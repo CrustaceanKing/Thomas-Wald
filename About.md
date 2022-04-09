@@ -162,6 +162,8 @@ Rest in Peace Mocha, I hope where ever you are, you're happy, and someday I'll f
 >> This song was written in early 2019, and it was written after I tried to kill myself for the last time. Throughout, I gave the soundscape a more hollow and empty mood to match what I was feeling of wanting to be alive but not being able to see the sky. However by the end, the soundscape becomes completely filled up, with me realizing I want to live, and I should live, and ends back where it started, but this time with a new sense of self, after overcoming my suicidal thoughts. This song ends the whole album on a positive note, that if I just keep mving forward, someday I'll be ok, which is what the Anthology of albums is (hopefully) building towards
 
 ## Image Gallery
+if this page updated, this should appear
+
 | Route 66 | Soaring Above the Clouds | Tales Under the Twin Suns |
 | :---:         |     :---:      |          :---: |
 |  <img src="Route66.png" width="275" height="275">  |  <img src="SATC.png" width="275" height="275">    | <img src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="275" height="275">    |
