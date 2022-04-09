@@ -12,7 +12,7 @@ I've been playing guitar from the age of 6, and ever since then I've had a passi
 
 Some of my biggest inspirations are *Gary Clark Jr. , Royal Blood, Highly Suspect, Iration, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones*. I love making blues rock although I never limit myself creatively, from making a `Metal Album` to making an (upcoming) `Electronica` album.
 
-Also to clear up the air, the artist `Sean Wald` is where I release all the instrumental music I have made, usually in tte form of albums and because of this it has a much quicker turn around time and is generally more fun to make. The artist `Thomas Wald` is where I release all my music featuring vocals, usually in the form of singles, and heavily promote my music. Due to the complexity of mixing and mastering vocals, these tracks take quite a bit of time, but in comparison to Sean Wald they always out-preform (My highest streaming song *Crossroads* , has nearly **10,000 Streams!** )
+Also to clear up the air, the artist `Sean Wald` is where I release all the instrumental music I have made, usually in the form of albums and because of this it has a much quicker turn around time and is generally more fun to make. The artist `Thomas Wald` is where I release all my music featuring vocals, usually in the form of singles, and heavily promote my music. Due to the complexity of mixing and mastering vocals, these tracks take quite a bit of time, but in comparison to Sean Wald they always out-preform (My highest streaming song *Crossroads* , has nearly **10,000 Streams!** )
 
 Here's a 
 [general link](https://linktr.ee/thomaswald)
