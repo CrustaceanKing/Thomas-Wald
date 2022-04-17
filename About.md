@@ -1,6 +1,8 @@
 # Sean Thomas Orion Wald: Who Am I & What Do I Do?
 Hey! My name is **Sean Thomas Wald**, and I'm a *Producer, Multi-Instrumentalist, and Singer/Songwriter!*
 
+If you'd like to contact me, my email is: seantwald@gmail.com
+
 [LinkTree](https://linktr.ee/thomaswald) for all platforms
 
 ---
