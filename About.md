@@ -1,6 +1,8 @@
 # Sean Thomas Orion Wald: Who Am I & What Do I Do?
 Hey! My name is **Sean Thomas Wald**, and I'm a *Producer, Multi-Instrumentalist, and Singer/Songwriter!*
 
+I am several personas on streaming services, you may have heard my music under the alaises: **Itto**, **Thomas Wald**, or **Sean Wald**
+
 If you'd like to contact me, my email is: seantwald@gmail.com
 
 [LinkTree](https://linktr.ee/thomaswald) for all platforms
@@ -14,7 +16,7 @@ I've been playing guitar from the age of 6, and ever since then I've had a passi
 
 Some of my biggest inspirations are *Gary Clark Jr. , Royal Blood, Highly Suspect, Iration, Jimi Hendrix, Reignwolf, Trivium, and the Blue Stones*. I love making blues rock although I never limit myself creatively, from making a `Metal Album` to making an (upcoming) `Electronica` album.
 
-Also to clear up the air, the artist `Sean Wald` is where I release all the instrumental music I have made, usually in the form of albums and because of this it has a much quicker turn around time and is generally more fun to make. The artist `Thomas Wald` is where I release all my music featuring vocals, usually in the form of singles, and heavily promote my music. Due to the complexity of mixing and mastering vocals, these tracks take quite a bit of time, but in comparison to Sean Wald they always out-preform (My highest streaming song *Crossroads* , has nearly **10,000 Streams!** )
+Also to clear up the air, the artist `Sean Wald` is where I release all the instrumental music I have made, usually in the form of albums and because of this it has a much quicker turn around time and is generally more fun to make. The artist 'Itto' is my professional page, which I'm starting to ramp up in 2020. The artist `Thomas Wald` is where I release all my music featuring vocals, usually in the form of singles, and heavily promote my music, and I have plans to release a cover album on this artist page. Due to the complexity of mixing and mastering vocals, these tracks take quite a bit of time, but in comparison to Sean Wald they always out-preform (My highest streaming song *Crossroads* , has nearly **10,000 Streams!** )
 
 Here's a 
 [general link](https://linktr.ee/thomaswald)
@@ -34,8 +36,16 @@ As much as I'd like to tell you all about how amazing this album is and what it 
 ! (please :D )
 
 ---
+
+# Itto - Artist
+The name Itto actually comes from a character in Genshin Impact who I liked - he's an oni who's kind of stupid but very lovable. That's someone I always strive to be, so I only found it fitting to name my main artist persona after him. While Itto only has one release so far - "yesterday's", I plan to release something very big on Jun 14th, so keep your eyes peeled ;)
+
+This artist alias will be used for all my main releases, stuff I will actievly promote and hope to see get bigger than the other pages. Thus, at some point I may feel the need to deny and relation with the artist Itto to remain anominity, however that is to be seen
+
+[here](https://open.spotify.com/artist/1quFOYYPLro4HqZG5LYqwb) is a link to Itto's spotify page.
 # Thomas Wald - Artist
-As stated previously, the artist `Thomas Wald` is where I release all my **singles/songs** featuring **vocals** and **heavily promote my music**. 
+As stated previously, the artist `Thomas Wald` is where I release all my **singles/songs** featuring **vocals** and **heavily promote my music**.
+Update: This page will still include vocals and singles, but will more be focused on the vocal aspect and doing covers to both increase my vocal range and my knowledge of recording vocals. All the heavily promoted music will be defaulted to the Itto artist page.
 
 For each single I make under `Thomas Wald` it generally takes anywhere from **a month** to up to **a year** just to fully *produce and release songs*, including promotional images and videos as well as getting everything in the track to meet streaming standards.
 
