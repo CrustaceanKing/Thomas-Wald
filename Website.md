@@ -10,20 +10,20 @@ If you are reading this, it is probable that you additionally *have a copy of my
 
 ## <span style="color:Grey">Physical Activities</span> 
 ### <span style="color:Grey">Triathlons (Running, Cycling, Swimming)</span> 
-Triathlons and I have a long history. In 2015, I started doing them (because my parents signed me up) and love them. In the Arizona Triathlon Series for the 2015 year, I ended up in 3rd place overall for my age group, and usually ended up in the top 5 in each individual race. However, tragedy struck the next year, when my coach got sued and was forced to disband the club. After that, I never really went back to triathlon, however I did continue each sport independently; Notable: being the captain of the Farmington Youth Cycling Club (CCC) in 2020, racing for the Simsbury Trojans Varsity team in 2018 and 2019, and competing on the Simsbury Varsity Cross Country team in 2020 (albeit, not receiving any varsity letter to my chagrin).
+>Triathlons and I have a long history. In 2015, I started doing them (because my parents signed me up) and love them. In the Arizona Triathlon Series for the 2015 year, I ended up in 3rd place overall for my age group, and usually ended up in the top 5 in each individual race. However, tragedy struck the next year, when my coach got sued and was forced to disband the club. After that, I never really went back to triathlon, however I did continue each sport independently; Notable: being the captain of the Farmington Youth Cycling Club (CCC) in 2020, racing for the Simsbury Trojans Varsity team in 2018 and 2019, and competing on the Simsbury Varsity Cross Country team in 2020 (albeit, not receiving any varsity letter to my chagrin).
 
-Although I've never looked back, recently I've been having that itch again: I really want to do a triathlon, and more than that, I want to be better at them than I was when I was 12. Sounds easy? Its not. Like I said, 12y/o me was a speed demon, he got 3rd place overall in his first (and only) year! That's some Ethos I gotta live up to, but I'm ready to meet that challenge!
+>Although I've never looked back, recently I've been having that itch again: I really want to do a triathlon, and more than that, I want to be better at them than I was when I was 12. Sounds easy? Its not. Like I said, 12y/o me was a speed demon, he got 3rd place overall in his first (and only) year! That's some Ethos I gotta live up to, but I'm ready to meet that challenge!
 
-Currently, I am training for the San Diego Spring Sprint on March 7th. For those who don't know, that's a 400 meter swim, followed by a 12k on bike, appended by a 5k run. That's kind of a lot, trust me I know! 
+>Currently, I am training for the San Diego Spring Sprint on March 7th. For those who don't know, that's a 400 meter swim, followed by a 12k on bike, appended by a 5k run. That's kind of a lot, trust me I know! 
 
-To train for this, I have been running 5k+ on Sundays and Wednesdays, biking about 12 miles (~17k) on Mondays and Fridays, and swimming for an hour (which ends up being about ~1000 meters) on Tuesdays and Thursdays, with Saturday being my off day (at least, it would be if I didn't surf those days).
+>To train for this, I have been running 5k+ on Sundays and Wednesdays, biking about 12 miles (~17k) on Mondays and Fridays, and swimming for an hour (which ends up being about ~1000 meters) on Tuesdays and Thursdays, with Saturday being my off day (at least, it would be if I didn't surf those days).
 
-Just recently, I hit a new 5k PR at 20:00! Lets hope I can carry that wind with me into the race!
+>Just recently, I hit a new 5k PR at 20:00! Lets hope I can carry that wind with me into the race!
 
 ### <span style="color:Grey">Morning Routine</span>
-Unlike a lot of my friends, I'm a very early bird; I believe the mornings are the most important and underutilized time of the day. I start every day at around 5-6am by taking my Vitamin Pills from Costco (See image), and then go into a 15 min Ab workout. This workout is heavily inspired by [Chris Heria](https://www.youtube.com/@CHRISHERIA), (specifically this [video](https://www.youtube.com/watch?v=yVQF_Vr_XCE)). I believe this to be a perfect start to the day by getting blood flowing and by eating those vitamins!
+>Unlike a lot of my friends, I'm a very early bird; I believe the mornings are the most important and underutilized time of the day. I start every day at around 5-6am by taking my Vitamin Pills from Costco (See image), and then go into a 15 min Ab workout. This workout is heavily inspired by [Chris Heria](https://www.youtube.com/@CHRISHERIA), (specifically this [video](https://www.youtube.com/watch?v=yVQF_Vr_XCE)). I believe this to be a perfect start to the day by getting blood flowing and by eating those vitamins!
 ### <span style="color:Grey">Badminton</span>
-As an official member of the UCSD Badminton Team, it is my job to inform you that I am not very good. I only just recently started Badminton, but have already fallen in love, and all though I was required to tell you I am not good, I am getting better and hope to someday be able to return a smash!
+>As an official member of the UCSD Badminton Team, it is my job to inform you that I am not very good. I only just recently started Badminton, but have already fallen in love, and all though I was required to tell you I am not good, I am getting better and hope to someday be able to return a smash!
 
 ## <span style="color:Grey">Coding Projects</span>
 
@@ -97,20 +97,29 @@ Download Link:
 >2048 JavaScript file: <a href="2048.js" download>(2048.js) Click to Download</a>
 
 >2048 CSS file: <a href="2048.css" download>(2048.css) Click to Download</a>
-### 3. Projects in Java (September 2021 - June 2022)
+### School Projects (C, Java, Arm-32 Assembly)
+>Initially I had downloadable links available to all my projects completed for school on github as repositories, so anyone could run them and see what I had done. **HOWEVER**, I have been informed this is a **violation of academic integrity**, as anyone who takes those classes after me could pull my repositories and use my code as their own. 
 
-### 4. Projects in C (September 2022 - November 2022)
-
-### 5. Projects in Arm-32 Assembly (November 2022 - December 2022)
+>With that said, I do want to show my code, so I will be attempting to describe my projects as well as attach images to them to demonstrate what they do and explain my code. I **CANNOT ATTACH MY CODE**, and at the moment no longer have access to some of the files and remote storage system I previously used, so this will take a bit of time. I will provide constant updates.
 
 ## <span style="color:Grey">Music</span>
 ### Brief Intro/Overview
-### Further Reading
+
+>I have been making music for quite awhile now - my first (released) album was all the way back in 2020, but my first actual album was made and archived all the way back in 2017/18! That is to say, although I've been doing it awhile, I still have a lot to learn. I won't go into much detail, as there is already [another page](https://crustaceanking.github.io/Thomas-Wald/About.html) where I went into too much detail, so if you'd like to learn more and maybe hear some of what I've done, you can check it out.
 
 ## <span style="color:Grey">Yearly Book Count & Review</span>
 ### 2023 New Years Resolution
+>For the new years I one goal: to become healthier, more mindful, and smarter than I had ever been. I've already discussed this a bit in the way of triathlons, but 2 other goals with this were: (1) to read a minimum of 30 books this year, and (2), to stop using social media.
+
+>To keep it short, I was chronically addicted to social media - Instagram, Youtube, even Twitter at one point (with the Andrew Tate Fiasco), and it destroyed my mind. I was becoming a vegetable person, simply existing to exist online, gaining no new information, and never thinking much. Something had to change, so for the new year I deleted all of my social media, and I mean **All of it**. But my mind still needed to be stimulated...
+
+>That's where I got the idea of 30 books a year: quite manageable as all my friends can attest to how speedy of a reader I am (I read 'The Way of Kings', an amazing 1200 page book, **in 4 days!**). By reading, I hope to make myself healthier, and simultaneously make my mind far more sharp than it already is.
 ### Books Read
+> "*Can't hurt me*" by David Goggins (350pg) - 9/10
 ### Books Currently Reading
+> "*Nicomachean Ethics*" by Aristotle - 20% done
+
+> "*North and South*" by Elizabeth Gaskell (440pg) - 60% done
 
 
 
