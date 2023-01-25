@@ -90,7 +90,7 @@ Potential Future Updates:
 
 Download Link:
 
->[Link]() to working 2048 game made by me
+>[Link](https://crustaceanking.github.io/Thomas-Wald/2048.html) to working 2048 game made by me
 
 >2048 html file: <a href="2048.html" download>(2048.html) Click to Download</a>
 
