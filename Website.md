@@ -9,7 +9,7 @@ When I'm not giving it 100% at school, I can be found <span style="color:Black">
 
 If you are reading this, it is probable that you additionally *have a copy of my resume*, hence <span style="color:Black">**I will avoid reciting what is presented on there, such as awards and accolades & relevant courses taken in High School & College**</span>, as not only would it be a waste of time but additionally <span style="color:Black">**I do not believe boasting all my academic achievements would reflect well on me nor do I find bosting accurate to the who I am.**</span>
 
-<IMG SRC="SurfFinal.gif" width="200" height="200"> <IMG SRC="IMG_3428.jpg" width ="266" heigh="200">
+<IMG SRC="SurfFinal.gif" width="200" height="200"> <IMG SRC="IMG_3428.jpg" width ="266" heigh="200"> <IMG SRC="IMG_4815.jpg" width= "150" height = "200">
   
 //future patch: place images here, 1 of cycling, surfing, etc.
 
