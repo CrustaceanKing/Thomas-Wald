@@ -1,15 +1,15 @@
-# <span style="color:Grey">Sean Thomas Wald</span>
-## <span style="color:Grey">Introduction</span>
-Hello! I am <span style="color:Grey">**Sean Thomas Orion Wald**</span>, <span style="color:Grey">**full time student at UCSD**</span>, currently pursuing a <span style="color:Grey">**BA in Mathematics & Computer Science Engineering**</span>. While I am a Sophomore in time only, I am a Junior in standing and expect to graduate by June 2024 (normally, this would be around June 2025). 
+# <span style="color:Black">Sean Thomas Wald</span>
+## <span style="color:Black">Introduction</span>
+Hello! I am <span style="color:Black">**Sean Thomas Orion Wald**</span>, <span style="color:Black">**full time student at UCSD**</span>, currently pursuing a <span style="color:Black">**BA in Mathematics & Computer Science Engineering**</span>. While I am a Sophomore in time only, I am a Junior in standing and expect to graduate by June 2024 (normally, this would be around June 2025). 
 
-When I'm not giving it 100% at school, I can be found <span style="color:Grey">*playing badminton*</span> for the UCSD Badminton Club, <span style="color:Grey">*recording music*</span> at my home studio, <span style="color:Grey">*playing venues*</span> live @UCSD, <span style="color:Grey">*swimming*</span> at the UCSD Rec Pool, <span style="color:Grey">*cycling & running*</span> around the La Jolla area (I'm training for a triathlon right now), <span style="color:Grey">*surfing*</span> on La Jolla cove, or in a Geisel library, either <span style="color:Grey">*coding pet projects of mine or reading*</span> a book. Additionally, I am <span style="color:Grey">*applying to become a volunteer*</span> at the Human Society in San Diego (check them out, you won't regret it)! You can find more information about all of these below, but I hope this gives you insight into the kind of person I am: **I am very energetic and creative, but I am also very disciplined to get the work I have done.**
+When I'm not giving it 100% at school, I can be found <span style="color:Black">*playing badminton*</span> for the UCSD Badminton Club, <span style="color:Black">*recording music*</span> at my home studio, <span style="color:Black">*playing venues*</span> live @UCSD, <span style="color:Black">*swimming*</span> at the UCSD Rec Pool, <span style="color:Black">*cycling & running*</span> around the La Jolla area (I'm training for a triathlon right now), <span style="color:Black">*surfing*</span> on La Jolla cove, or in a Geisel library, either <span style="color:Black">*coding pet projects of mine or reading*</span> a book. Additionally, I am <span style="color:Black">*applying to become a volunteer*</span> at the Human Society in San Diego (check them out, you won't regret it)! You can find more information about all of these below, but I hope this gives you insight into the kind of person I am: **I am very energetic and creative, but I am also very disciplined to get the work I have done.**
 
-If you are reading this, it is probable that you additionally *have a copy of my resume*, hence <span style="color:Grey">**I will avoid reciting what is presented on there, such as awards and accolades & relevant courses taken in High School & College**</span>, as not only would it be a waste of time but additionally <span style="color:Grey">**I do not believe boasting all my academic achievements would reflect well on me nor do I find bosting accurate to the who I am.**</span>
+If you are reading this, it is probable that you additionally *have a copy of my resume*, hence <span style="color:Black">**I will avoid reciting what is presented on there, such as awards and accolades & relevant courses taken in High School & College**</span>, as not only would it be a waste of time but additionally <span style="color:Black">**I do not believe boasting all my academic achievements would reflect well on me nor do I find bosting accurate to the who I am.**</span>
 
 //future patch: place images here, 1 of cycling, surfing, etc.
 
-## <span style="color:Grey">Physical Activities</span> 
-### <span style="color:Grey">Triathlons (Running, Cycling, Swimming)</span> 
+## <span style="color:Black">Physical Activities</span> 
+### <span style="color:Black">Triathlons (Running, Cycling, Swimming)</span> 
 >Triathlons and I have a long history. In 2015, I started doing them (because my parents signed me up) and love them. In the Arizona Triathlon Series for the 2015 year, I ended up in 3rd place overall for my age group, and usually ended up in the top 5 in each individual race. However, tragedy struck the next year, when my coach got sued and was forced to disband the club. After that, I never really went back to triathlon, however I did continue each sport independently; Notable: being the captain of the Farmington Youth Cycling Club (CCC) in 2020, racing for the Simsbury Trojans Varsity team in 2018 and 2019, and competing on the Simsbury Varsity Cross Country team in 2020 (albeit, not receiving any varsity letter to my chagrin).
 
 >Although I've never looked back, recently I've been having that itch again: I really want to do a triathlon, and more than that, I want to be better at them than I was when I was 12. Sounds easy? Its not. Like I said, 12y/o me was a speed demon, he got 3rd place overall in his first (and only) year! That's some Ethos I gotta live up to, but I'm ready to meet that challenge!
@@ -20,15 +20,15 @@ If you are reading this, it is probable that you additionally *have a copy of my
 
 >Just recently, I hit a new 5k PR at 20:00! Lets hope I can carry that wind with me into the race!
 
-### <span style="color:Grey">Morning Routine</span>
+### <span style="color:Black">Morning Routine</span>
 >Unlike a lot of my friends, I'm a very early bird; I believe the mornings are the most important and underutilized time of the day. I start every day at around 5-6am by taking my Vitamin Pills from Costco (See image), and then go into a 15 min Ab workout. This workout is heavily inspired by [Chris Heria](https://www.youtube.com/@CHRISHERIA), (specifically this [video](https://www.youtube.com/watch?v=yVQF_Vr_XCE)). I believe this to be a perfect start to the day by getting blood flowing and by eating those vitamins!
-### <span style="color:Grey">Badminton</span>
+### <span style="color:Black">Badminton</span>
 >As an official member of the UCSD Badminton Team, it is my job to inform you that I am not very good. I only just recently started Badminton, but have already fallen in love, and all though I was required to tell you I am not good, I am getting better and hope to someday be able to return a smash!
 
-## <span style="color:Grey">Coding Projects</span>
+## <span style="color:Black">Coding Projects</span>
 
 Here is a complete list of every coding project I have done thus far (January 23rd, 2023). Hopefully, more to come soon!
-### <span style="color:Grey">1. 2048 Python/Terminal V3.1 (December 2022)</span>
+### <span style="color:Black">1. 2048 Python/Terminal V3.1 (December 2022)</span>
 Idea: Create the game 2048 (see [2048](https://play2048.co/)) in Python as a playable game on terminal. 
 
 Goals: 
@@ -68,7 +68,7 @@ Download Link:
 >2048 Helper (required - contains all functions): <a href="bruhHelper.py" download>(bruhHelper.py) Click to Download</a>
 
 To play this on terminal, simply download both files, place them in the same folder, and then use the run commands on 2048.py!
-### <span style="color:Grey">2. 2048 HTML/CSS/JavaScript V1.0 (January 2023)</span>
+### <span style="color:Black">2. 2048 HTML/CSS/JavaScript V1.0 (January 2023)</span>
 
 <IMG SRC="2048HTMLGif.gif">
 
@@ -102,12 +102,12 @@ Download Link:
 
 >With that said, I do want to show my code, so I will be attempting to describe my projects as well as attach images to them to demonstrate what they do and explain my code. I **CANNOT ATTACH MY CODE**, and at the moment no longer have access to some of the files and remote storage system I previously used, so this will take a bit of time. I will provide constant updates.
 
-## <span style="color:Grey">Music</span>
+## <span style="color:Black">Music</span>
 ### Brief Intro/Overview
 
 >I have been making music for quite awhile now - my first (released) album was all the way back in 2020, but my first actual album was made and archived all the way back in 2017/18! That is to say, although I've been doing it awhile, I still have a lot to learn. I won't go into much detail, as there is already [another page](https://crustaceanking.github.io/Thomas-Wald/About.html) where I went into too much detail, so if you'd like to learn more and maybe hear some of what I've done, you can check it out.
 
-## <span style="color:Grey">Yearly Book Count & Review</span>
+## <span style="color:Black">Yearly Book Count & Review</span>
 ### 2023 New Years Resolution
 >For the new years I one goal: to become healthier, more mindful, and smarter than I had ever been. I've already discussed this a bit in the way of triathlons, but 2 other goals with this were: (1) to read a minimum of 30 books this year, and (2), to stop using social media.
 
