@@ -1,4 +1,7 @@
 # <span style="color:Black">Sean Thomas Wald</span>
+<img align="right" src="IMG_7596 2.jpg" width="200" height="250">
+
+
 ## <span style="color:Black">Introduction</span>
 Hello! I am <span style="color:Black">**Sean Thomas Orion Wald**</span>, <span style="color:Black">**full time student at UCSD**</span>, currently pursuing a <span style="color:Black">**BA in Mathematics & Computer Science Engineering**</span>. While I am a Sophomore in time only, I am a Junior in standing and expect to graduate by June 2024 (normally, this would be around June 2025). 
 
@@ -6,6 +9,7 @@ When I'm not giving it 100% at school, I can be found <span style="color:Black">
 
 If you are reading this, it is probable that you additionally *have a copy of my resume*, hence <span style="color:Black">**I will avoid reciting what is presented on there, such as awards and accolades & relevant courses taken in High School & College**</span>, as not only would it be a waste of time but additionally <span style="color:Black">**I do not believe boasting all my academic achievements would reflect well on me nor do I find bosting accurate to the who I am.**</span>
 
+<IMG SRC="">
 //future patch: place images here, 1 of cycling, surfing, etc.
 
 ## <span style="color:Black">Physical Activities</span> 
