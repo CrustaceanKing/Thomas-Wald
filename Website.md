@@ -5,16 +5,17 @@
 ## <span style="color:Black">Introduction</span>
 Hello! I am <span style="color:Black">**Sean Thomas Orion Wald**</span>, <span style="color:Black">**full time student at UCSD**</span>, currently pursuing a <span style="color:Black">**BA in Mathematics & Computer Science Engineering**</span>. While I am a Sophomore in time only, I am a Junior in standing and expect to graduate by June 2024 (normally, this would be around June 2025). 
 
-When I'm not giving it 100% at school, I can be found <span style="color:Black">*playing badminton*</span> for the UCSD Badminton Club, <span style="color:Black">*recording music*</span> at my home studio, <span style="color:Black">*playing venues*</span> live @UCSD, <span style="color:Black">*swimming*</span> at the UCSD Rec Pool, <span style="color:Black">*cycling & running*</span> around the La Jolla area (I'm training for a triathlon right now), <span style="color:Black">*surfing*</span> on La Jolla cove, or in a Geisel library, either <span style="color:Black">*coding pet projects of mine or reading*</span> a book. Additionally, I am <span style="color:Black">*applying to become a volunteer*</span> at the Human Society in San Diego (check them out, you won't regret it)! You can find more information about all of these below, but I hope this gives you insight into the kind of person I am: **I am very energetic and creative, but I am also very disciplined to get the work I have done.**
+When I'm not giving it 100% at school, I can be found <span style="color:Black">*playing badminton*</span> for the UCSD Badminton Club, <span style="color:Black">*recording music*</span> at my home studio, <span style="color:Black">*playing venues*</span> live @UCSD, <span style="color:Black">*swimming*</span> at the UCSD Rec Pool, <span style="color:Black">*cycling & running*</span> around the La Jolla area (I'm training for a triathlon right now), <span style="color:Black">*surfing*</span> on La Jolla cove, or in a Geisel library, either <span style="color:Black">*coding pet projects of mine or reading*</span> a book. Additionally, I am <span style="color:Black">*applying to become a volunteer*</span> at the Human Society in San Diego ([check them out](https://www.sdhumane.org/about-us/our-mission.html), you won't regret it)! **UPDATE**: I am **officially** a volunteer at the San Diego Humane Society!!! You can find more information about all of these below, but I hope this gives you insight into the kind of person I am: **I am very energetic and creative, but I am also very disciplined to get the work I have done.**
 
 If you are reading this, it is probable that you additionally *have a copy of my resume*, hence <span style="color:Black">**I will avoid reciting what is presented on there, such as awards and accolades & relevant courses taken in High School & College**</span>, as not only would it be a waste of time but additionally <span style="color:Black">**I do not believe boasting all my academic achievements would reflect well on me nor do I find bosting accurate to the who I am.**</span>
 
-<IMG SRC="SurfFinal.gif" width="200" height="200"> <IMG SRC="IMG_3428.jpg" width ="266" heigh="200"> <IMG SRC="IMG_4815.jpg" width= "150" height = "200">
-  
-//future patch: place images here, 1 of cycling, surfing, etc.
+<IMG SRC="SurfFinal.gif" width="200" height="200"> <IMG SRC="IMG_3428.jpg" width ="266" heigh="200"> <IMG SRC="IMG_4815.JPG" width= "150" height = "200"> <IMG SRC="926C7386-0AB4-4400-965A-29005E6984C7.JPG" width= "266" height = "200">
 
 ## <span style="color:Black">Physical Activities</span> 
 ### <span style="color:Black">Triathlons (Running, Cycling, Swimming)</span> 
+  
+<img align="left" src="IMG_4822.JPG" width="266" height="200">
+  
 >Triathlons and I have a long history. In 2015, I started doing them (because my parents signed me up) and love them. In the Arizona Triathlon Series for the 2015 year, I ended up in 3rd place overall for my age group, and usually ended up in the top 5 in each individual race. However, tragedy struck the next year, when my coach got sued and was forced to disband the club. After that, I never really went back to triathlon, however I did continue each sport independently; Notable: being the captain of the Farmington Youth Cycling Club (CCC) in 2020, racing for the Simsbury Trojans Varsity team in 2018 and 2019, and competing on the Simsbury Varsity Cross Country team in 2020 (albeit, not receiving any varsity letter to my chagrin).
 
 >Although I've never looked back, recently I've been having that itch again: I really want to do a triathlon, and more than that, I want to be better at them than I was when I was 12. Sounds easy? Its not. Like I said, 12y/o me was a speed demon, he got 3rd place overall in his first (and only) year! That's some Ethos I gotta live up to, but I'm ready to meet that challenge!
@@ -28,8 +29,13 @@ If you are reading this, it is probable that you additionally *have a copy of my
 ### <span style="color:Black">Morning Routine</span>
 >Unlike a lot of my friends, I'm a very early bird; I believe the mornings are the most important and underutilized time of the day. I start every day at around 5-6am by taking my Vitamin Pills from Costco (See image), and then go into a 15 min Ab workout. This workout is heavily inspired by [Chris Heria](https://www.youtube.com/@CHRISHERIA), (specifically this [video](https://www.youtube.com/watch?v=yVQF_Vr_XCE)). I believe this to be a perfect start to the day by getting blood flowing and by eating those vitamins!
 ### <span style="color:Black">Badminton</span>
->As an official member of the UCSD Badminton Team, it is my job to inform you that I am not very good. I only just recently started Badminton, but have already fallen in love, and all though I was required to tell you I am not good, I am getting better and hope to someday be able to return a smash!
+<img align="right" src="IMG_6531.JPG" width="150" height="200">
 
+>As an official member of the UCSD Badminton Team, it is my job to inform you that I am not very good. I only just recently started Badminton, but have already fallen in love, and all though I was required to tell you I am not good, I am getting better and hope to someday be able to return a smash!
+### <span style="color:Black">Surfing</span>
+  
+>I am a self taught surfer, thus like badminton, I am not that great. That beong said, I have cause over 10 waves while standing! Not too impressive sure, but impressive to me. Usually, I'll surf with my friends on Saturday mornings at the La Jolla Cove, so if you ever see me make sure to say hello!
+  
 ## <span style="color:Black">Coding Projects</span>
 
 Here is a complete list of every coding project I have done thus far (January 23rd, 2023). Hopefully, more to come soon!
