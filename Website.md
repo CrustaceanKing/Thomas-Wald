@@ -1,4 +1,5 @@
 # <span style="color:Black">Sean Thomas Wald</span>
+[Linkedin](www.linkedin.com/in/seantowald)
 <img align="right" src="IMG_7596 2.jpg" width="200" height="250">
 
 
