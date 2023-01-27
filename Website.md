@@ -17,11 +17,11 @@ If you are reading this, it is probable that you additionally *have a copy of my
   
 <img align="left" src="IMG_4822.JPG" width="266" height="200">
   
->Triathlons and I have a long history. In 2015, I started doing them (because my parents signed me up) and love them. In the Arizona Triathlon Series for the 2015 year, I ended up in 3rd place overall for my age group, and usually ended up in the top 5 in each individual race. However, tragedy struck the next year, when my coach got sued and was forced to disband the club. After that, I never really went back to triathlon, however I did continue each sport independently; Notable: being the captain of the Farmington Youth Cycling Club (CCC) in 2020, racing for the Simsbury Trojans Varsity team in 2018 and 2019, and competing on the Simsbury Varsity Cross Country team in 2020 (albeit, not receiving any varsity letter to my chagrin).
+>Triathlons and I have a long history. In 2015, I started doing them (because my parents signed me up) and loved them. In the Arizona Triathlon Series for the 2015 year, I ended up in 3rd place overall for my age group, and usually ended up in the top 5 in each individual race. However, tragedy struck the next year, when my coach got sued and was forced to disband the club. After that, I never really went back to triathlons, however I did continue each sport independently; Of Note: being the captain of the Farmington Youth Cycling Club (CCC) in 2020, racing for the Simsbury Trojans Varsity team in 2018 and 2019, and competing on the Simsbury Varsity Cross Country team in 2020 (albeit, not receiving any varsity letter to my chagrin).
 
 >Although I've never looked back, recently I've been having that itch again: I really want to do a triathlon, and more than that, I want to be better at them than I was when I was 12. Sounds easy? Its not. Like I said, 12y/o me was a speed demon, he got 3rd place overall in his first (and only) year! That's some Ethos I gotta live up to, but I'm ready to meet that challenge!
 
->Currently, I am training for the San Diego Spring Sprint on March 7th. For those who don't know, that's a 400 meter swim, followed by a 12k on bike, appended by a 5k run. That's kind of a lot, trust me I know! 
+>Currently, I am training for the San Diego Spring Sprint on March 7th. For those who don't know, that's a 1/4mi swim, followed by a 10mi on bike, appended by a 5k run. That's kind of a lot, trust me I know! 
 
 >To train for this, I have been running 5k+ on Sundays and Wednesdays, biking about 12 miles (~17k) on Mondays and Fridays, and swimming for an hour (which ends up being about ~1000 meters) on Tuesdays and Thursdays, with Saturday being my off day (at least, it would be if I didn't surf those days).
 
@@ -35,7 +35,7 @@ If you are reading this, it is probable that you additionally *have a copy of my
 >As an official member of the UCSD Badminton Team, it is my job to inform you that I am not very good. I only just recently started Badminton, but have already fallen in love, and all though I was required to tell you I am not good, I am getting better and hope to someday be able to return a smash!
 ### <span style="color:Black">Surfing</span>
   
->I am a self taught surfer, thus like badminton, I am not that great. That beong said, I have cause over 10 waves while standing! Not too impressive sure, but impressive to me. Usually, I'll surf with my friends on Saturday mornings at the La Jolla Cove, so if you ever see me make sure to say hello!
+>I am a self taught surfer, thus like badminton, I am not that great. That being said, I have caught over 10 waves while standing! Not too impressive sure, but impressive to me. Usually, I'll surf with my friends on Saturday mornings at the La Jolla Cove, so if you ever see me make sure to say hello!
   
 ## <span style="color:Black">Coding Projects</span>
 
