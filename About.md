@@ -22,7 +22,7 @@ Here's a
 [general link](https://linktr.ee/thomaswald)
 to all my music, but for specific informtaion about each seperate artist, what goes behind making the music, each song, and a little about each song, read below;<br/>
 
-## Recent Release - Tales Under the Twin Suns (Feburary- 2022)
+## Recent Release - Apollo (January - 2023)
 <img align="left" src="https://m.media-amazon.com/images/I/51f9ZbJrPvL._UXNaN_FMjpg_QL85_.jpg" width="250" height="250">
 
 This album took me about **5 years** to make, starting all the way back in **2017**. It started with an idea that I'd make a progressive metal album, but I had neither the skills nor the tools to complete this idea. 
@@ -125,6 +125,13 @@ Everything under the artist Sean Wald is Recorded, Produced, Mixed & Mastered by
 [Route 66](https://open.spotify.com/album/3qAUQGiCzl3krNaQrdafCZ) *(August 29, 2020)*
 
 ### Behind the Music
+**Sedona/Apollo**
+
+**Oceans**
+
+**Crossroads**
+
+
 **Tales Under the Twin Suns**
 > This album took me about **5 years** to make, starting all the way back in **2017**. It started with an idea that I'd make a progressive metal album, but I had neither the skills nor the tools to complete this idea. 
 > *However*, 4 years later, after I had proved I could produce the music I had always envisioned in my head, *I returned to my former dreams*, and set my eyes on making this album. Through actual tears and sweat - which included (but not limited to) `getting my computer wet and therefore losing every single song I had ever made` - I was finally able to complete the album (with a little help from my friend/mentor/teemate/producer:
