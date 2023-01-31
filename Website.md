@@ -127,11 +127,16 @@ Download Link:
 
 >That's where I got the idea of 30 books a year: quite manageable as all my friends can attest to how speedy of a reader I am (I read 'The Way of Kings', an amazing 1200 page book, **in 4 days!**). By reading, I hope to make myself healthier, and simultaneously make my mind far more sharp than it already is.
 ### Books Read
-> "*Can't hurt me*" by David Goggins (350pg) - 9/10
-### Books Currently Reading
-> "*Nicomachean Ethics*" by Aristotle - 20% done
+> "*Can't hurt me*" by David Goggins (350pg) - 9.0/10 (Finished Jan 14)
 
-> "*North and South*" by Elizabeth Gaskell (440pg) - 60% done
+> "*North and South*" by Elizabeth Gaskell (440pg) - 6.5/10 (Finished Jan 29)  
+
+> "*Edgedancer*" by Brandon Sanderson (265pg) - 8.0/10 (Finished Jan 30)
+
+### Books Currently Reading
+> "*Nicomachean Ethics*" by Aristotle (unknown pg/varies) - 25% done
+
+> "*A Street Cat Named Bob - And How He Saved My Life*" by James Bowen (275pg) - 0%
 
 
 
