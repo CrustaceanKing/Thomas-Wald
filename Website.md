@@ -134,6 +134,8 @@ Download Link:
 > "*Edgedancer*" by Brandon Sanderson (pp265) - 8.0/10 (Finished Jan 30)
   
 > "*A Street Cat Named Bob - And How He Saved My Life*" by James Bowen (pp275) - 6.4/10 (Finished Jan 31)
+  
+> "*Elantris*" by Brandon Sanderson (pp587) - 8.5/10 (Finished Feb 4th)
 
 ### Books Currently Reading
 > "*Nicomachean Ethics*" by Aristotle (unknown pg/varies) - 25% done
