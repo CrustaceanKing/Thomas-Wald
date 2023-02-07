@@ -37,7 +37,7 @@ If you are reading this, it is probable that you additionally *have a copy of my
   
 >I am a self taught surfer, thus like badminton, I am not that great. That being said, I have caught over 10 waves while standing! Not too impressive sure, but impressive to me. Usually, I'll surf with my friends on Saturday mornings at the La Jolla Cove, so if you ever see me make sure to say hello!
   
-## <span style="color:Black">Coding Projects</span>
+## <span style="color:Black">Portfolio/ Coding Projects</span>
 
 Here is a complete list of every coding project I have done thus far (January 23rd, 2023). Hopefully, more to come soon!
 ### <span style="color:Black">1. 2048 Python/Terminal V3.1 (December 2022)</span>
@@ -109,7 +109,8 @@ Download Link:
 >2048 JavaScript file: <a href="2048.js" download>(2048.js) Click to Download</a>
 
 >2048 CSS file: <a href="2048.css" download>(2048.css) Click to Download</a>
-### School Projects (C, Java, Arm-32 Assembly)
+
+### 3. School Projects (C, Java, Arm-32 Assembly)
 >Initially I had downloadable links available to all my projects completed for school on github as repositories, so anyone could run them and see what I had done. **HOWEVER**, I have been informed this is a **violation of academic integrity**, as anyone who takes those classes after me could pull my repositories and use my code as their own. 
 
 >With that said, I do want to show my code, so I will be attempting to describe my projects as well as attach images to them to demonstrate what they do and explain my code. I **CANNOT ATTACH MY CODE**, and at the moment no longer have access to some of the files and remote storage system I previously used, so this will take a bit of time. I will provide constant updates.
@@ -126,7 +127,9 @@ Download Link:
 >To keep it short, I was chronically addicted to social media - Instagram, Youtube, even Twitter at one point (with the Andrew Tate Fiasco), and it destroyed my mind. I was becoming a vegetable person, simply existing to exist online, gaining no new information, and never thinking much. Something had to change, so for the new year I deleted all of my social media, and I mean **All of it**. But my mind still needed to be stimulated...
 
 >That's where I got the idea of 30 books a year: quite manageable as all my friends can attest to how speedy of a reader I am (I read 'The Way of Kings', an amazing 1200 page book, **in 4 days!**). By reading, I hope to make myself healthier, and simultaneously make my mind far more sharp than it already is.
+
 ### Books Read
+
 > "*Can't hurt me*" by David Goggins (pp350) - 9.0/10 (Finished Jan 14)
 
 > "*North and South*" by Elizabeth Gaskell (pp440) - 6.5/10 (Finished Jan 29)  
