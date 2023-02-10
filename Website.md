@@ -139,6 +139,8 @@ Download Link:
 > "*A Street Cat Named Bob - And How He Saved My Life*" by James Bowen (pp275) - 6.4/10 (Finished Jan 31)
   
 > "*Elantris*" by Brandon Sanderson (pp587) - 8.5/10 (Finished Feb 4th)
+  
+> "*Warbreaker*" by Brandon Sanderson (pp678) - 9.25/10 (Finished Feb 10th)
 
 ### Books Currently Reading
 > "*Nicomachean Ethics*" by Aristotle (unknown pg/varies) - 25% done
