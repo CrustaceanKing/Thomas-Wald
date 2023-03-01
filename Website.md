@@ -141,9 +141,13 @@ Download Link:
 > "*Elantris*" by Brandon Sanderson (pp587) - 8.5/10 (Finished Feb 4th)
   
 > "*Warbreaker*" by Brandon Sanderson (pp678) - 9.25/10 (Finished Feb 10th)
+  
+> "*This is How You Lose a Time War*" by Amal El-Mohtar and Max Gladstone (pp199) - 7.5/10 (Finished Feb 28th)
+  
+> "*Persuasion*" by Jane Austen (pp250) - 7.6/10 (Finished March 1st)
 
 ### Books Currently Reading
-> "*Nicomachean Ethics*" by Aristotle (unknown pg/varies) - 25% done
+> "*Nicomachean Ethics*" by Aristotle (unknown pg/varies) - 75% done (technically finished, but will reread certain passages)
 
 
 
