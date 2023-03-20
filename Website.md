@@ -145,9 +145,15 @@ Download Link:
 > "*This is How You Lose a Time War*" by Amal El-Mohtar and Max Gladstone (pp199) - 7.5/10 (Finished Feb 28th)
   
 > "*Persuasion*" by Jane Austen (pp250) - 7.6/10 (Finished March 1st)
+  
+> "*Second Class Citizen*" by Buchi Emecheta (pp197) - 7.7/10 (Finished March 9th)
+  
+> "*Nicomachean Ethics*" by Aristotle (unknown pg/varies) - 9.0/10 (Finished March 17th)
+  
+> "*The Allow of Law*" by Brandon Sanderson (pp380) - 8.8/10 (Finished March 19th)
 
 ### Books Currently Reading
-> "*Nicomachean Ethics*" by Aristotle (unknown pg/varies) - 75% done (technically finished, but will reread certain passages)
+> "*Shadows of Self*" by Brandon Sanderson (pp436)
 
 
 
